@@ -5,7 +5,7 @@ public class Main {
 
         System.out.println("Hello world! its mee mario");
 
-        // it doesnt matter what you think man
+        // it doesn't matter what you think man i just write whatever i want
 
     }
 }
